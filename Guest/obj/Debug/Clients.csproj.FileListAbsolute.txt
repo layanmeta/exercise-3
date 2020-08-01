@@ -1,0 +1,6 @@
+C:\Users\layan\source\repos\Exercise 3\Guest\bin\Debug\Guest.exe.config
+C:\Users\layan\source\repos\Exercise 3\Guest\bin\Debug\Guest.exe
+C:\Users\layan\source\repos\Exercise 3\Guest\bin\Debug\Guest.pdb
+C:\Users\layan\source\repos\Exercise 3\Guest\obj\Debug\Clients.csprojAssemblyReference.cache
+C:\Users\layan\source\repos\Exercise 3\Guest\obj\Debug\Guest.exe
+C:\Users\layan\source\repos\Exercise 3\Guest\obj\Debug\Guest.pdb
